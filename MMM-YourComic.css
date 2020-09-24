@@ -1,0 +1,27 @@
+ 
+.MMM-YourComic {
+	max-width: 95%; 
+	height: 100%;
+	display: inline-block;
+	vertical-align: middle;
+	padding-bottom: 2px;
+}
+
+.MMM-YourComic div {
+	color: #fff;
+	font-family: Muli, sans-serif;
+	 
+} 
+
+.MMM-YourComic .fixed {
+	width: 100%;
+	height: 100%;
+}
+ 
+
+.MMM-YourComic .image {
+	width: 95%;
+	height: 95%;
+	 
+}
+ 

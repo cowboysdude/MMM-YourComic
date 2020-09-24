@@ -1,0 +1,15 @@
+{
+  "name": "mmm-yourcomic",
+  "version": "1.0.0",
+  "main": "MMM-YourComic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cowboysdude",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
