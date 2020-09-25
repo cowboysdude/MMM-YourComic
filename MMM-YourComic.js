@@ -43,12 +43,13 @@ Module.register("MMM-YourComic", {
 		var shownet = document.createElement("div");
 			shownet.classList.add("fixed");
         
-		var NetIcon = document.createElement("img");
+	if (comic) {
+	    var NetIcon = document.createElement("img");
             NetIcon.classList.add("image");
             NetIcon.src = comic; 
             shownet.appendChild(NetIcon);
             wrapper.appendChild(shownet); 
-           
+        }   
         return wrapper;
     },
 	
